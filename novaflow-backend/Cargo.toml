@@ -2,6 +2,5 @@
 name = "novaflow-backend"
 version = "0.1.0"
 edition = "2021"
-mutter = "0.2.0"
 
 [dependencies]
